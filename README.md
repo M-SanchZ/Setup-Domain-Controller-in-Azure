@@ -80,13 +80,6 @@ This tutorial guides you through the process of setting up a **Domain Controller
 
 
 
-
-
-
-
-
-   
-
 ---
 
 ### **1.4 Configure Static IP for DC-1**
@@ -123,6 +116,15 @@ This tutorial guides you through the process of setting up a **Domain Controller
    - **Password**: `Cyberlab123!`
 6. Under **Networking**, ensure that the VM is attached to the **DomainLabVNet** and the same subnet as **DC-1**.
 7. Click **Review + Create** and then **Create** to deploy the VM.
+   ![image](https://github.com/user-attachments/assets/1d741714-7a21-4faa-913f-7ef2c7f02459)
+   ![image](https://github.com/user-attachments/assets/1312b364-9a7e-48f6-98ac-9a6f709ff677)
+   ![image](https://github.com/user-attachments/assets/8c606044-2e0a-4467-be71-cdcea1262891)
+   ![image](https://github.com/user-attachments/assets/e631ea1e-2ce9-476e-9c8b-29f06599e1d7)
+
+
+
+
+   
 
 ---
 
