@@ -89,6 +89,19 @@ This tutorial guides you through the process of setting up a **Domain Controller
 3. Under **IP Configurations**, click **Private IP** and change the assignment to **Static**.
 4. Save the changes.
 
+   ![image](https://github.com/user-attachments/assets/7e6d6903-e628-4424-a0fb-330f5421fa27)
+   ![image](https://github.com/user-attachments/assets/b64bd2ee-09a7-4a4e-b374-e180a58d870e)
+   ![image](https://github.com/user-attachments/assets/98a8bb40-92c9-445e-9264-cad5c7424275)
+   ![image](https://github.com/user-attachments/assets/73f5655b-c62b-4cf1-a8be-0dad94d45bec)
+   ![image](https://github.com/user-attachments/assets/2245c58d-513f-41a0-bee8-2ea33c65bc07)
+   ![image](https://github.com/user-attachments/assets/c6cce704-8b48-4cea-b1b8-1b935e2f86ed)
+
+
+
+
+
+
+   
 ---
 
 ### **1.5 Log into DC-1 and Disable Windows Firewall**
@@ -120,6 +133,16 @@ This tutorial guides you through the process of setting up a **Domain Controller
    ![image](https://github.com/user-attachments/assets/1312b364-9a7e-48f6-98ac-9a6f709ff677)
    ![image](https://github.com/user-attachments/assets/8c606044-2e0a-4467-be71-cdcea1262891)
    ![image](https://github.com/user-attachments/assets/e631ea1e-2ce9-476e-9c8b-29f06599e1d7)
+   ![image](https://github.com/user-attachments/assets/a1d26a90-1a26-4d93-89e4-2fd8ea112cb1)
+   ![image](https://github.com/user-attachments/assets/3696dc97-f65d-4ea7-b2bf-12ad847611e1)
+   ![image](https://github.com/user-attachments/assets/730c6571-b0ce-4728-972b-c7fbbfeb43d9)
+   ![image](https://github.com/user-attachments/assets/6f2d34f5-0d9b-4ea0-893a-6d4731129627)
+   ![image](https://github.com/user-attachments/assets/0be048cb-b55e-4485-9d72-1022a33ca7d0)
+
+
+
+
+
 
 
 
