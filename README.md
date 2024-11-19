@@ -237,6 +237,10 @@ Ensure the ping command succeeds, confirming that the network connection between
 2. Run the following command to verify the DNS settings:
   ipconfig /all
 3. The DNS Servers section should display the Private IP Address of DC-1.
+   ![image](https://github.com/user-attachments/assets/07ae0b33-0329-49bb-8ebc-2dfc6d9fe116)
+   ![image](https://github.com/user-attachments/assets/82dd7809-5e69-4f10-b2d6-f1db8103e6c3)
+
+
 
 ---
 
