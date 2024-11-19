@@ -114,6 +114,33 @@ This tutorial guides you through the process of setting up a **Domain Controller
    - Select **Turn off Windows Defender Firewall** for both private and public networks.
 4. Click **OK** to apply changes.
 
+   ![image](https://github.com/user-attachments/assets/d6f5b88e-6d38-4081-8271-a933157cbb3d)
+   ![image](https://github.com/user-attachments/assets/d9290830-799e-4e7b-9230-ba2265cbbf68)
+   ![image](https://github.com/user-attachments/assets/d727fcad-239b-4c35-b272-fab275299eb9)
+   ![image](https://github.com/user-attachments/assets/7a76f305-d7c9-430d-9502-428749ff2c30)
+   ![image](https://github.com/user-attachments/assets/c8682690-c346-4709-84c1-32a27f71d825)
+   ![image](https://github.com/user-attachments/assets/1c398f8b-e183-4148-aeae-72c924cce29b)
+   ![image](https://github.com/user-attachments/assets/825cab9e-7afa-42a3-a7e6-d1b6712cf8cf)
+   ![image](https://github.com/user-attachments/assets/7e928033-220a-43ab-94e5-7749d1b50356)
+   ![image](https://github.com/user-attachments/assets/05042fa5-e93b-49b5-be27-a0e536a179ea)
+   ![image](https://github.com/user-attachments/assets/8bc971b0-f76a-4333-ae14-c68f863ee7f2)
+   ![image](https://github.com/user-attachments/assets/17366559-b2fb-4497-9aa1-10f547633cd8)
+   ![image](https://github.com/user-attachments/assets/0e8ad15b-a5f2-440a-855e-d537b09887f6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
 ---
 
 ## **Part 2: Setup Client-1 VM**
@@ -157,6 +184,21 @@ This tutorial guides you through the process of setting up a **Domain Controller
 2. Under **IP Configurations**, click **DNS servers** and select **Custom**.
 3. Set the **DNS server** to the **Private IP Address** of **DC-1** (the static IP configured in Step 1.4).
 4. Save the changes.
+![image](https://github.com/user-attachments/assets/72532707-2ac1-4562-b3cc-bc052a4a1c89)
+![image](https://github.com/user-attachments/assets/6e00f018-bf85-444d-bedc-688b58da04a3)
+![image](https://github.com/user-attachments/assets/596ee0a9-821d-4023-8d73-4f2190cf67d2)
+![image](https://github.com/user-attachments/assets/2f0aa034-6eed-45e7-aea8-128056d1a6ac)
+![image](https://github.com/user-attachments/assets/1ea305c4-c08c-4ffa-a7fa-50911c6e750a)
+![image](https://github.com/user-attachments/assets/ada8576a-6ac8-46cd-b3a9-8e25fc555837)
+![image](https://github.com/user-attachments/assets/97a3ead0-8d78-4b03-a2fd-e12c01361343)
+
+
+
+
+
+
+
+
 
 ---
 
@@ -164,6 +206,10 @@ This tutorial guides you through the process of setting up a **Domain Controller
 
 1. Go to the **Overview** tab for **Client-1**.
 2. Click **Restart** to apply the DNS changes.
+   ![image](https://github.com/user-attachments/assets/59376d76-8207-4b96-869b-cb98af6cd551)
+   ![image](https://github.com/user-attachments/assets/b17a9f62-dcdb-4bda-9660-50538028199b)
+
+
 
 ---
 
@@ -174,6 +220,14 @@ This tutorial guides you through the process of setting up a **Domain Controller
    ```powershell
    ping <DC-1_Private_IP_Address>
 Ensure the ping command succeeds, confirming that the network connection between Client-1 and DC-1 is working.
+![image](https://github.com/user-attachments/assets/1e94a3ac-f71f-463a-92f4-6ad8184fd396)
+![image](https://github.com/user-attachments/assets/37bb75f2-c1df-4f30-bc86-2602fddbe662)
+![image](https://github.com/user-attachments/assets/0415d313-1098-4cbe-b0aa-3d4424d39467)
+![image](https://github.com/user-attachments/assets/b93ac03c-3ff9-47e2-94d9-6de3637858f2)
+
+
+
+
 
 ---
 
